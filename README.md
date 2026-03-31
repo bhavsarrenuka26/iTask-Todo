@@ -31,10 +31,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/itask.git
+git clone https://github.com/bhavsarrenuka26/iTask-Todo.git
 
 # Navigate to project folder
-cd itask
+cd iTask-Todo
 
 # Install dependencies
 npm install
